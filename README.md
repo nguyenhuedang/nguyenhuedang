@@ -1,3 +1,3 @@
 Hi all, I'm selling coffee at https://phatthanhcafe.com
 
-I'm updating this README.md by (vim.md)[https://vim.md]
+I'm updating this README.md by [https://vim.md](vim.md)
